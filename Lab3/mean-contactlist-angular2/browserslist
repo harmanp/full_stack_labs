@@ -10,3 +10,5 @@ last 2 versions
 Firefox ESR
 not dead
 not IE 9-11 # For IE 9-11 support, remove 'not'.
+
+mongodb+srv://harman2:MongoDb16@cluster0-hyur7.mongodb.net/test?retryWrites=true&w=majority
